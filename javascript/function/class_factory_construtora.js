@@ -28,5 +28,5 @@ function Pessoa3(nome){
     this.nome = nome
     this.falar = function(){ console.log('Meu nome é '+ this.nome)}
 }
-const p3 = new Pessoa3('Paulo')
+const p3 = new Pessoa3('Paulo') //instaciando 
 p3.falar()
