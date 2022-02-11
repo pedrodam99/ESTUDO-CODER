@@ -15,4 +15,5 @@ let dobro2 = (a) => {
 
 let dobro3 = a => a *2 //return implicito
 
-//? Na arrow function o this respeita o contexto léxico, adotando o contexto do pai
+//? Na arrow function o this respeita o contexto léxico, dessa forma, atribue o this ao contexto do pai
+//? O arrow function é dominante em cima do bind, ou seja, não altera o ponteiro da arrow function

@@ -27,17 +27,5 @@ num--
 //especie de if / else
 nota >= 7 ? 'Aprovado' : 'Reprovado'
 
-//OPERADORES RELACIONAIS
-// resultado sempre retornará false ou true
-//Temos os classicos >, <, >=, <=
-//Temos também ==, ===, !=, !==
-
-//OPERADORES LÓGICOS
-// OU (||) apenas uma condição precisa ser TRUE
-// E (&&) todas as condições precisam ser TRUE
-// NEGAÇÃO LÓGICA (!) inverte o resultado
-
-
-
-
+//OPERADOR DESTRUCTURING (DESESTRUTURAÇÃO)
 
