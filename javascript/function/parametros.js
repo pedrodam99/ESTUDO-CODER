@@ -26,12 +26,12 @@ function soma1(a, b, c){
 
 function soma2 (a, b, c){
     a !== undefined ? a : 1
-    b = 1 in arguments ? a : 1
+    b = 1 in arguments ? b : 1
     c = isNaN(c) ? 1 : c //mais segura, pois passa apenas número 
 
 }
 
-// ! Padrão ES6+
+// ! Padrão ES6+ para ter parametros padrões
 //*  É a forma mais reduzida e mais utilizada hoje em dia, declarando seu valor prévio já na função
 
 function soma3 (a = 1, b = 1, c = 1) {
