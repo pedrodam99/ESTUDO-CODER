@@ -12,8 +12,6 @@
 //* Basicamente é onde os componentes foram declarados fisicamente no código
 
 //Exemplo
-
-
 const valor = 'Global'
 function minhaFuncao(){
     console.log(valor)
