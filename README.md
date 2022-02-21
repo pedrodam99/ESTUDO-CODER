@@ -1,13 +1,16 @@
-## Estudo sobre tecnologias WEB 
-### Curso de Web Moderno da Coder
+# Estudo sobre JAVASCRIPT  
+## Curso de Web Moderno da COD3R
 
 VSCODE como editor de texto  
 GITBASH para versionamento de código
 
 
-#### Javascript
+<h2>Javascript</h2>
 
-01. Fundamentos
-02. 
+01. Fundamento do JavaScript
+02. Estruturas de Controle 
+03. Objeto
+04. Funções
+05. Arrays
 
 
