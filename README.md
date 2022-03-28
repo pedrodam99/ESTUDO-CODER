@@ -1,16 +1,11 @@
-# Estudo sobre JAVASCRIPT  
-## Curso de Web Moderno da COD3R
+# Estudo JavaScript 📚 
+Estudo sobre JS, aplicado pela COD3R, abordando os seguintes temas: 
+- Fundamento do JavaScript
+- Estruturas de Controle 
+- Objeto
+- Funções
+- Arrays
 
-VSCODE como editor de texto  
-GITBASH para versionamento de código
-
-
-<h2>Javascript</h2>
-
-01. Fundamento do JavaScript
-02. Estruturas de Controle 
-03. Objeto
-04. Funções
-05. Arrays
+No final do capítulo foi resolvida uma lista de exercício utilizando todos os conteúdos passados 
 
 
